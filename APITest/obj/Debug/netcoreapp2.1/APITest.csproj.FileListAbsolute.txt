@@ -1,0 +1,14 @@
+C:\Users\Duran\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.deps.json
+C:\Users\Duran\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.json
+C:\Users\Duran\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.dev.json
+C:\Users\Duran\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.dll
+C:\Users\Duran\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.pdb
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CoreCompileInputs.cache
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cache
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cs
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfoInputs.cache
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfo.cs
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorTargetAssemblyInfo.cache
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.dll
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.pdb
+C:\Users\Duran\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csprojAssemblyReference.cache
